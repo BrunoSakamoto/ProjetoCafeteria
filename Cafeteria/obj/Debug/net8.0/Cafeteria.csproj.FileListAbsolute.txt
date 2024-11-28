@@ -300,3 +300,4 @@ C:\Users\bruno\OneDrive\Documentos\WebCafeteria\Cafeteria\obj\Debug\net8.0\refin
 C:\Users\bruno\OneDrive\Documentos\WebCafeteria\Cafeteria\obj\Debug\net8.0\Cafeteria.pdb
 C:\Users\bruno\OneDrive\Documentos\WebCafeteria\Cafeteria\obj\Debug\net8.0\Cafeteria.genruntimeconfig.cache
 C:\Users\bruno\OneDrive\Documentos\WebCafeteria\Cafeteria\obj\Debug\net8.0\ref\Cafeteria.dll
+C:\Users\bruno\OneDrive\Documentos\WebCafeteria\Cafeteria\obj\Debug\net8.0\Cafeteria.sourcelink.json
